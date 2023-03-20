@@ -1,7 +1,7 @@
 {
   "title": "Let's Trade 5e",
   "description": "A Foundry VTT module which allows you to send and receive items from other players.",
-  "version": "0.5.1",
+  "version": "0.5.1.1",
   "id": "lets-trade-5e",
   "authors": [
     {
@@ -78,7 +78,7 @@
   "esmodules": [
     "src/main.js"
   ],
-  "url": "https://github.com/KageJittai/lets-trade-5e",
-  "manifest": "https://github.com/KageJittai/lets-trade-5e/releases/latest/download/module.json",
-  "download": "https://github.com/KageJittai/lets-trade-5e/releases/latest/download/module.zip"
+  "url": "https://github.com/bearsy1/lets-trade-5e",
+  "manifest": "https://github.com/bearsy1/lets-trade-5e/releases/latest/download/module.json",
+  "download": "https://github.com/bearsy1/lets-trade-5e/releases/latest/download/module.zip"
 }
